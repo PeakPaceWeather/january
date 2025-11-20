@@ -1,0 +1,72 @@
+[
+  {
+    "year": 2015,
+    "max_temp": 42.0,
+    "min_temp": 34.0,
+    "precip_inches": 0.25,
+    "summary": "Overcast"
+  },
+  {
+    "year": 2016,
+    "max_temp": 57.0,
+    "min_temp": 34.0,
+    "precip_inches": 0.0,
+    "summary": "Clear"
+  },
+  {
+    "year": 2017,
+    "max_temp": 79.0,
+    "min_temp": 57.0,
+    "precip_inches": 0.0,
+    "summary": "Clear"
+  },
+  {
+    "year": 2018,
+    "max_temp": 64.0,
+    "min_temp": 51.0,
+    "precip_inches": 0.0,
+    "summary": "Mostly Cloudy"
+  },
+  {
+    "year": 2019,
+    "max_temp": 75.0,
+    "min_temp": 49.0,
+    "precip_inches": 0.0,
+    "summary": "Clear"
+  },
+  {
+    "year": 2020,
+    "max_temp": 78.0,
+    "min_temp": 47.0,
+    "precip_inches": 0.0,
+    "summary": "Mostly Clear"
+  },
+  {
+    "year": 2021,
+    "max_temp": 69.0,
+    "min_temp": 41.0,
+    "precip_inches": 0.0,
+    "summary": "Mostly Clear"
+  },
+  {
+    "year": 2022,
+    "max_temp": 55.0,
+    "min_temp": 39.0,
+    "precip_inches": 0.03,
+    "summary": "Overcast"
+  },
+  {
+    "year": 2023,
+    "max_temp": 79.0,
+    "min_temp": 57.0,
+    "precip_inches": 0.0,
+    "summary": "Mostly Clear"
+  },
+  {
+    "year": 2024,
+    "max_temp": 74.0,
+    "min_temp": 39.0,
+    "precip_inches": 0.0,
+    "summary": "Mostly Clear"
+  }
+]
