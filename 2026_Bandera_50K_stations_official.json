@@ -1,0 +1,15 @@
+[
+  { "name": "Lodge (Start)",        "lat": 29.648547, "lon": -99.200051, "miles": 0.00 },
+  { "name": "Boyles",               "lat": 29.642788, "lon": -99.197227, "miles": 5.02 },
+  { "name": "Equestrian",           "lat": 29.633361, "lon": -99.186157, "miles": 9.38 },
+  { "name": "Nachos",               "lat": 29.624778, "lon": -99.197534, "miles": 16.37 },
+  { "name": "Chapas",               "lat": 29.616488, "lon": -99.165317, "miles": 21.19 },
+  { "name": "YaYa",                 "lat": 29.640373, "lon": -99.186793, "miles": 27.00 },
+  { "name": "Lodge (Half)",         "lat": 29.650284, "lon": -99.202014, "miles": 31.14 },
+  { "name": "Boyles (Lap 2)",       "lat": 29.641611, "lon": -99.194919, "miles": 36.16 },
+  { "name": "Equestrian (Lap 2)",   "lat": 29.631860, "lon": -99.187550, "miles": 40.52 },
+  { "name": "Nachos (Lap 2)",       "lat": 29.625378, "lon": -99.196120, "miles": 47.51 },
+  { "name": "Chapas (Lap 2)",       "lat": 29.615178, "lon": -99.163822, "miles": 52.33 },
+  { "name": "YaYa (Lap 2)",         "lat": 29.642282, "lon": -99.188531, "miles": 58.14 },
+  { "name": "Lodge (Finish)",       "lat": 29.648851, "lon": -99.200046, "miles": 62.28 }
+]
